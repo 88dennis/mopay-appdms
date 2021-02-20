@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mopay-appdms/static/css/main.8f3b27ad.chunk.css",
-    "main.js": "/mopay-appdms/static/js/main.95029fc3.chunk.js",
-    "main.js.map": "/mopay-appdms/static/js/main.95029fc3.chunk.js.map",
+    "main.js": "/mopay-appdms/static/js/main.114b607b.chunk.js",
+    "main.js.map": "/mopay-appdms/static/js/main.114b607b.chunk.js.map",
     "runtime-main.js": "/mopay-appdms/static/js/runtime-main.ffd4f726.js",
     "runtime-main.js.map": "/mopay-appdms/static/js/runtime-main.ffd4f726.js.map",
     "static/js/2.bf806006.chunk.js": "/mopay-appdms/static/js/2.bf806006.chunk.js",
@@ -12,8 +12,10 @@
     "index.html": "/mopay-appdms/index.html",
     "static/css/main.8f3b27ad.chunk.css.map": "/mopay-appdms/static/css/main.8f3b27ad.chunk.css.map",
     "static/js/2.bf806006.chunk.js.LICENSE.txt": "/mopay-appdms/static/js/2.bf806006.chunk.js.LICENSE.txt",
-    "static/media/undraw_add_tasks_mxew.8fa5dae7.svg": "/mopay-appdms/static/media/undraw_add_tasks_mxew.8fa5dae7.svg",
+    "static/media/undraw_Chatting_re_j55r.fb67214c.svg": "/mopay-appdms/static/media/undraw_Chatting_re_j55r.fb67214c.svg",
     "static/media/undraw_by_my_car_ttge.e20728e9.svg": "/mopay-appdms/static/media/undraw_by_my_car_ttge.e20728e9.svg",
+    "static/media/undraw_connection_b38q.797c9ae4.svg": "/mopay-appdms/static/media/undraw_connection_b38q.797c9ae4.svg",
+    "static/media/undraw_fast_loading_0lbh.ff734505.svg": "/mopay-appdms/static/media/undraw_fast_loading_0lbh.ff734505.svg",
     "static/media/undraw_make_it_rain_iwk4.9a55a1e3.svg": "/mopay-appdms/static/media/undraw_make_it_rain_iwk4.9a55a1e3.svg",
     "static/media/undraw_transfer_money_rywa.a2824e0e.svg": "/mopay-appdms/static/media/undraw_transfer_money_rywa.a2824e0e.svg",
     "static/media/video.082d3b46.mp4": "/mopay-appdms/static/media/video.082d3b46.mp4"
@@ -22,6 +24,6 @@
     "static/js/runtime-main.ffd4f726.js",
     "static/js/2.bf806006.chunk.js",
     "static/css/main.8f3b27ad.chunk.css",
-    "static/js/main.95029fc3.chunk.js"
+    "static/js/main.114b607b.chunk.js"
   ]
 }
