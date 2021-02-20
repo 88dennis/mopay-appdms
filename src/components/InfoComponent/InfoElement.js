@@ -19,7 +19,6 @@ margin-right: auto;
 margin-left: auto;
 padding: 0 24px;
 justify-content: center;
-
 `
 
 export const InfoRow = styled.div`

@@ -1,7 +1,8 @@
 import React from 'react'
 import Icon1 from '../../images/undraw_transfer_money_rywa.svg';
-import Icon2 from '../../images/undraw_add_tasks_mxew.svg';
-import Icon3 from '../../images/undraw_add_tasks_mxew.svg';
+import Icon2 from '../../images/undraw_Chatting_re_j55r.svg';
+import Icon3 from '../../images/undraw_fast_loading_0lbh.svg';
+
 
 import {ServicesContainer,ServicesH1, ServicesWrapper, ServicesCard, ServicesIcon, ServicesH2, ServicesP} from './ServicesElements';
 

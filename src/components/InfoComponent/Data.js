@@ -1,6 +1,6 @@
 import img from '../../images/undraw_by_my_car_ttge.svg';
 import img2 from '../../images/undraw_make_it_rain_iwk4.svg';
-import img3 from '../../images/undraw_add_tasks_mxew.svg';
+import img3 from '../../images/undraw_connection_b38q.svg';
 
 
 
